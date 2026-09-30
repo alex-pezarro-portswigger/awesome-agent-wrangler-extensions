@@ -8,17 +8,30 @@ Install any of them from **Settings → Extensions → Install** by pasting the 
 
 ## Contents
 
+- [Board](#board)
 - [Dispatch](#dispatch)
-- [Collaboration](#collaboration)
+- [Sessions](#sessions)
+- [Automation](#automation)
+
+## Board
+
+- **[agent-wrangler-mermaid](https://github.com/jameskinley/agent-wrangler-mermaid)** — Renders mermaid code blocks as diagrams in the markdown preview, task-memory preview and chat view.
+- **[agent-wrangler-minimise-task](https://github.com/ps-platypus/agent-wrangler-minimise-task)** — Adds Minimise to a task tile's right-click menu.
 
 ## Dispatch
 
 - **[aw-codex-policy](https://github.com/alex-pezarro-portswigger/aw-codex-policy)** — Pick Codex's sandbox, approval policy, approve-for-me and bypass per session, from the dispatch dialog's Advanced options.
 - **[aw-ext-effort-inline](https://github.com/alex-pezarro-portswigger/aw-ext-effort-inline)** — Moves the effort picker out of Advanced options and puts it beside the model selector.
 
-## Collaboration
+## Sessions
 
+- **[agent-wrangler-handoff-skill](https://github.com/psjamesh/agent-wrangler-handoff-skill)** — A `handoff` skill: a stuck or out-of-context session hands its work to a fresh successor it spawns itself, optionally on a different agent or model.
 - **[aw-session-registry](https://github.com/alex-pezarro-portswigger/aw-session-registry)** — Lets sessions in the same repo see what each other are doing and send each other messages.
+- **[wrangler-spend-limit](https://github.com/charlie-ps/wrangler-spend-limit)** — Set a USD spend limit on a session; once reached, the wrangler interrupts the model until you raise or clear it.
+
+## Automation
+
+- **[wrangler-squared](https://github.com/charlie-ps/wrangler-squared)** — Plans a goal into PRs (under Jira stories where ticketed), runs each step as its own session in a dedicated worktree, and gates plan, code and merge on a human.
 
 ## Contributing
 

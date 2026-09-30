@@ -12,6 +12,7 @@ Install any of them from **Settings → Extensions → Install** by pasting the 
 - **[agent-wrangler-mermaid](https://github.com/jameskinley/agent-wrangler-mermaid)** — Renders mermaid code blocks as diagrams in the markdown preview, task-memory preview and chat view.
 - **[agent-wrangler-minimise-task](https://github.com/ps-platypus/agent-wrangler-minimise-task)** — Adds Minimise to a task tile's right-click menu.
 - **[aw-codex-policy](https://github.com/alex-pezarro-portswigger/aw-codex-policy)** — Pick Codex's sandbox, approval policy, approve-for-me and bypass per session, from the dispatch dialog's Advanced options.
+- **[aw-ext-chip-picker](https://github.com/alex-pezarro-portswigger/aw-ext-chip-picker)** — Choose which chips appear on session cards, with a live preview.
 - **[aw-ext-effort-inline](https://github.com/alex-pezarro-portswigger/aw-ext-effort-inline)** — Moves the effort picker out of Advanced options and puts it beside the model selector.
 - **[aw-session-registry](https://github.com/alex-pezarro-portswigger/aw-session-registry)** — Lets sessions in the same repo see what each other are doing and send each other messages.
 - **[wrangler-spend-limit](https://github.com/charlie-ps/wrangler-spend-limit)** — Set a USD spend limit on a session; once reached, the wrangler interrupts the model until you raise or clear it.
